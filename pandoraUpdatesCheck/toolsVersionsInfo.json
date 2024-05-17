@@ -1,0 +1,293 @@
+{
+    "lastUpdateTimestamp": 1715972360
+8:59:25 PM
+,
+    "forensics": [
+        {
+            "name": "Arsenal Image Mounter",
+            "urlToDownload": null,
+            "finalPathOfPandora": "Forensics/Arsenal Image Mounter",
+            "installCommand": "Start-Process https://arsenalrecon.com/downloads"
+        },
+        {
+            "name": "Autopsy",
+            "urlToDownload": "https://github.com/sleuthkit/autopsy/releases/download/autopsy-4.21.0/autopsy-4.21.0-64bit.msi",
+            "finalPathOfPandora": "Forensics/Autopsy",
+            "installCommand": null
+        },
+        {
+            "name": "Chrome cache view",
+            "urlToDownload": "https://www.nirsoft.net/utils/chromecacheview.zip",
+            "finalPathOfPandora": "Forensics/Browser",
+            "installCommand": null
+        },
+        {
+            "name": "Browsing history",
+            "urlToDownload": "https://www.nirsoft.net/utils/browsinghistoryview-x64.zip",
+            "finalPathOfPandora": "Forensics/Browser",
+            "installCommand": null
+        },
+        {
+            "name": "Scalpel",
+            "urlToDownload": "https://github.com/machn1k/Scalpel-2.0/archive/refs/heads/master.zip",
+            "finalPathOfPandora": "Forensics/Data Carving",
+            "installCommand": null
+        },
+        {
+            "name": "Email Forensics",
+            "urlToDownload": "",
+            "finalPathOfPandora": "Forensics/Email",
+            "installCommand": null
+        },
+        {
+            "name": "ExifTools",
+            "urlToDownload": "https://exiftool.org/exiftool-12.84.zip",
+            "finalPathOfPandora": "Forensics/Exiftool",
+            "installCommand": null
+        },
+        {
+            "name": "FTK Imager",
+            "urlToDownload": null,
+            "finalPathOfPandora": "Forensics/FTK",
+            "installCommand": "Start-Process https://go.exterro.com/l/43312/2023-05-03/fc4b78"
+        },
+        {
+            "name": "Full Event Log Viewer",
+            "urlToDownload": "https://www.nirsoft.net/utils/fulleventlogview-x64.zip",
+            "finalPathOfPandora": "Forensics/FullEvent",
+            "installCommand": null
+        },
+        {
+            "name": "Hayabusa",
+            "urlToDownload": "https://github.com/Yamato-Security/hayabusa/releases/download/v2.15.0/hayabusa-2.15.0-win-x64.zip",
+            "finalPathOfPandora": "Forensics/Hayabusa",
+            "installCommand": null
+        },
+        {
+            "name": "Logon Tracer",
+            "urlToDownload": "https://github.com/JPCERTCC/LogonTracer/archive/refs/tags/v1.6.1.zip",
+            "finalPathOfPandora": "Forensics/LogonTracer",
+            "installCommand": null
+        },
+        {
+            "name": "MemProcFs",
+            "urlToDownload": "https://github.com/ufrisk/MemProcFS/releases/download/v5.9/MemProcFS_files_and_binaries_v5.9.14-win_x64-20240516.zip",
+            "finalPathOfPandora": "Forensics/MemProcFS",
+            "installCommand": null
+        },
+        {
+            "name": "Loki",
+            "urlToDownload": "https://github.com/Neo23x0/Loki/releases/download/v0.51.0/loki_0.51.0.zip",
+            "finalPathOfPandora": "Forensics/Loki",
+            "installCommand": null
+        },
+        {
+            "name": "MobSF",
+            "urlToDownload": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/archive/refs/tags/v3.9.7.zip",
+            "finalPathOfPandora": "Forensics/MobSF",
+            "installCommand": null
+        },
+        {
+            "name": "NetworkMiner",
+            "urlToDownload": "https://www.netresec.com/?download=NetworkMiner",
+            "finalPathOfPandora": "Forensics/Network",
+            "installCommand": null
+        },
+        {
+            "name": "WireShark",
+            "urlToDownload": "https://2.na.dl.wireshark.org/win64/Wireshark-4.2.5-x64.exe",
+            "finalPathOfPandora": "Forensics/Network",
+            "installCommand": "Start-Process C:/Forensics/NetworkWireshark-4.2.5-x64.exe"
+        },
+        {
+            "name": "OleTools",
+            "urlToDownload": "https://github.com/decalage2/oletools/releases/download/v0.60.1/oletools-0.60.1.zip",
+            "finalPathOfPandora": "Forensics/OLETools",
+            "installCommand": null
+        },
+        {
+            "name": "Plaso",
+            "urlToDownload": "https://github.com/log2timeline/plaso/archive/refs/tags/20240308.zip",
+            "finalPathOfPandora": "Forensics/Plaso",
+            "installCommand": null
+        },
+        {
+            "name": "RDP Cache Stitcher",
+            "urlToDownload": "https://github.com/BSI-Bund/RdpCacheStitcher/releases/download/v1.1/RdpCacheStitcher-v1.1-win64.zip",
+            "finalPathOfPandora": "Forensics/RDPCache",
+            "installCommand": null
+        },
+        {
+            "name": "BMC - Tools",
+            "urlToDownload": "https://github.com/ANSSI-FR/bmc-tools/archive/refs/heads/master.zip",
+            "finalPathOfPandora": "Forensics/RDPCache",
+            "installCommand": null
+        },
+        {
+            "name": "Register Recon",
+            "urlToDownload": null,
+            "finalPathOfPandora": "Forensics/Registry Recon",
+            "installCommand": "Start-Process https://arsenalrecon.com/downloads"
+        },
+        {
+            "name": "DB Browser",
+            "urlToDownload": "https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.zip",
+            "finalPathOfPandora": "Forensics/SQL lite",
+            "installCommand": null
+        },
+        {
+            "name": "UFS explorer",
+            "urlToDownload": "https://www.sysdevlabs.com/download/ufsxpci.exe",
+            "finalPathOfPandora": "Forensics/UFS explorer",
+            "installCommand": null
+        },
+        {
+            "name": "UserJournal 2 csv",
+            "urlToDownload": "https://github.com/jschicht/UsnJrnl2Csv/releases/download/v1.0.0.24/UsnJrnl2Csv_v1.0.0.24.zip",
+            "finalPathOfPandora": "Forensics/UsnJrnlToCSV",
+            "installCommand": null
+        },
+        {
+            "name": "Volatility 3",
+            "urlToDownload": "https://github.com/volatilityfoundation/volatility3/archive/refs/tags/v2.5.2.zip",
+            "finalPathOfPandora": "Forensics/Volatility3",
+            "installCommand": null
+        },
+        {
+            "name": "Zimmerman tools",
+            "urlToDownload": "https://f001.backblazeb2.com/file/EricZimmermanTools/Get-ZimmermanTools.zip",
+            "finalPathOfPandora": "Forensics/ZimmermanTools",
+            "installCommand": null
+        }
+    ],
+    "reversing": [
+        {
+            "name": "API monitor",
+            "urlToDownload": "http://www.rohitab.com/download/api-monitor-v2r13-setup-x64.exe",
+            "finalPathOfPandora": "/Reversing/API Monitor",
+            "installCommand": null
+        },
+        {
+            "name": "CFF Suite",
+            "urlToDownload": "https://ntcore.com/files/CFF_Explorer.zip",
+            "finalPathOfPandora": "/Reversing/CFF Suite",
+            "installCommand": null
+        },
+        {
+            "name": "Detect Ez",
+            "urlToDownload": "https://github.com/horsicq/DIE-engine/releases/download/3.09/die_win64_portable_3.09_x64.zip",
+            "finalPathOfPandora": "/Reversing/DetectItEz",
+            "installCommand": null
+        },
+        {
+            "name": "DnSpy",
+            "urlToDownload": "https://github.com/dnSpy/dnSpy/releases/download/v6.1.8/dnSpy-net-win64.zip",
+            "finalPathOfPandora": "/Reversing/DnSpy",
+            "installCommand": null
+        },
+        {
+            "name": "FakeNet",
+            "urlToDownload": "https://github.com/mandiant/flare-fakenet-ng/releases/download/v1.4.11/fakenet1.4.11.zip",
+            "finalPathOfPandora": "/Reversing/FakeNet",
+            "installCommand": null
+        },
+        {
+            "name": "Ghidra",
+            "urlToDownload": "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_11.0.3_build/ghidra_11.0.3_PUBLIC_20240410.zip",
+            "finalPathOfPandora": "/Reversing/Ghidra",
+            "installCommand": null
+        },
+        {
+            "name": "HxD",
+            "urlToDownload": "https://mh-nexus.de/downloads/HxDPortableSetup.zip",
+            "finalPathOfPandora": "/Reversing/HxD",
+            "installCommand": null
+        },
+        {
+            "name": "IDA",
+            "urlToDownload": "https://out7.hex-rays.com/files/idafree84_windows.exe",
+            "finalPathOfPandora": "/Reversing/IDA",
+            "installCommand": null
+        },
+        {
+            "name": "PE Beard",
+            "urlToDownload": "https://github.com/hasherezade/pe-bear/releases/download/v0.6.7.3/PE-bear_0.6.7.3_qt4_x86_win_vs10.zip",
+            "finalPathOfPandora": "/Reversing/PEBear",
+            "installCommand": null
+        },
+        {
+            "name": "Process Hacker",
+            "urlToDownload": "https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-bin.zip/download",
+            "finalPathOfPandora": "/Reversing/Processhacker",
+            "installCommand": null
+        },
+        {
+            "name": "Resource Hacker",
+            "urlToDownload": "https://www.angusj.com/resourcehacker/resource_hacker.zip",
+            "finalPathOfPandora": "/Reversing/Resource_hacker",
+            "installCommand": null
+        },
+        {
+            "name": "ShellCode Emulator",
+            "urlToDownload": "https://github.com/mandiant/speakeasy/archive/refs/tags/v1.5.11.zip",
+            "finalPathOfPandora": "/Reversing/ShellcodeEmulator",
+            "installCommand": null
+        },
+        {
+            "name": "Strings",
+            "urlToDownload": "https://download.sysinternals.com/files/Strings.zip",
+            "finalPathOfPandora": "/Reversing/Strings",
+            "installCommand": null
+        },
+        {
+            "name": "SysInternals Toolsuit",
+            "urlToDownload": "https://download.sysinternals.com/files/SysinternalsSuite.zip",
+            "finalPathOfPandora": "/Reversing/SysinternalsSuite",
+            "installCommand": null
+        },
+        {
+            "name": "WinDBG",
+            "urlToDownload": "https://aka.ms/windbg/download",
+            "finalPathOfPandora": "/Reversing/WinDBGInstaller",
+            "installCommand": null
+        },
+        {
+            "name": "x64 Debugger",
+            "urlToDownload": "https://sourceforge.net/projects/x64dbg/files/latest/download",
+            "finalPathOfPandora": "/Reversing/x64Debugger",
+            "installCommand": null
+        },
+        {
+            "name": "IDR - Delphi",
+            "urlToDownload": "https://github.com/crypto2011/IDR/releases/download/27_01_2019/Idr.exe",
+            "finalPathOfPandora": "/Reversing/Delphi",
+            "installCommand": null
+        },
+        {
+            "name": "Dhrake - Delphi",
+            "urlToDownload": "https://github.com/huettenhain/dhrake/archive/refs/heads/master.zip",
+            "finalPathOfPandora": "/Reversing/Delphi",
+            "installCommand": null
+        }
+    ],
+    "others": [
+        {
+            "name": "Python",
+            "urlToDownload": "https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe",
+            "finalPathOfPandora": "/",
+            "installCommand": "Start-Process python-3.12.3-amd64.exe"
+        },
+        {
+            "name": "Chocolatly",
+            "urlToDownload": null,
+            "finalPathOfPandora": null,
+            "installCommand": "Start-Process choco upgrade chocolatey"
+        },
+        {
+            "name": "Node Js",
+            "urlToDownload": null,
+            "finalPathOfPandora": null,
+            "installCommand": "choco install nodejs-lts --version='20.13.1'"
+        }
+    ]
+}
