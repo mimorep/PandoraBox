@@ -273,7 +273,7 @@
             "name": "Python",
             "urlToDownload": "https://www.python.org/ftp/python/3.12.3/python-3.12.3.exe",
             "finalPathOfPandora": "/",
-            "installCommand": "Start-Process _toolTempName_"
+            "installCommand": "Start-Process _toolTempName_ /quiet /simple"
         },
         {
             "name": "Chocolatly",
