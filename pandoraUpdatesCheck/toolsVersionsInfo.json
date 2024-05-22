@@ -95,7 +95,7 @@
             "name": "WireShark",
             "urlToDownload": "https://2.na.dl.wireshark.org/win64/Wireshark-4.2.5-x64.exe",
             "finalPathOfPandora": "Forensics/Network",
-            "installCommand": "Start-Process C:/Forensics/NetworkWireshark-4.2.5-x64.exe"
+            "installCommand": "Start-Process _toolTempName_"
         },
         {
             "name": "OleTools",
@@ -273,7 +273,7 @@
             "name": "Python",
             "urlToDownload": "https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe",
             "finalPathOfPandora": "/",
-            "installCommand": "Start-Process python-3.12.3-amd64.exe"
+            "installCommand": "Start-Process _toolTempName_"
         },
         {
             "name": "Chocolatly",
