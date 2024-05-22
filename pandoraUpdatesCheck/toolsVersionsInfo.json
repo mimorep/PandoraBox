@@ -271,7 +271,7 @@
     "others": [
         {
             "name": "Python",
-            "urlToDownload": "https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe",
+            "urlToDownload": "https://www.python.org/ftp/python/3.12.3/python-3.12.3.exe",
             "finalPathOfPandora": "/",
             "installCommand": "Start-Process _toolTempName_"
         },
