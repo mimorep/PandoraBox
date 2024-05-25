@@ -33,9 +33,9 @@
         },
         {
             "name": "Email Forensics",
-            "urlToDownload": "",
+            "urlToDownload": "https://dl.forensiksoft.com/setup-email-forensics-wizard.exe",
             "finalPathOfPandora": "Forensics/Email",
-            "installCommand": null
+            "installCommand": "Start-Process _toolTempName_ /SP- /VERYSILENT /CURRENTUSER /NOCANCEL"
         },
         {
             "name": "ExifTools",
