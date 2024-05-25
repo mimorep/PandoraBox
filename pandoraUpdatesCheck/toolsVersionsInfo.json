@@ -208,6 +208,12 @@
             "installCommand": null
         },
         {
+            "name": "Recaf",
+            "urlToDownload": "https://github.com/Col-E/Recaf/releases/download/2.21.14/recaf-2.21.14-J8-jar-with-dependencies.jar",
+            "finalPathOfPandora": "/Reversing/Java_Decompiler",
+            "installCommand": null
+        },
+        {
             "name": "PE Beard",
             "urlToDownload": "https://github.com/hasherezade/pe-bear/releases/download/v0.6.7.3/PE-bear_0.6.7.3_qt4_x86_win_vs10.zip",
             "finalPathOfPandora": "/Reversing/PEBear",
