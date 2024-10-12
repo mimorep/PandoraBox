@@ -272,6 +272,12 @@
             "urlToDownload": "https://github.com/huettenhain/dhrake/archive/refs/heads/master.zip",
             "finalPathOfPandora": "/Reversing/Delphi",
             "installCommand": null
+        },
+        {
+            "name": "Cyber Chef",
+            "urlToDownload": "https://gchq.github.io/CyberChef/CyberChef_v10.19.2.zip",
+            "finalPathOfPandora": "/Reversing/CyberChef",
+            "installCommand": "Expand-Archive -Path _toolTempName_ -DestinationPath 'C:\Reversing\CyberChef\'"
         }
     ],
     "others": [
