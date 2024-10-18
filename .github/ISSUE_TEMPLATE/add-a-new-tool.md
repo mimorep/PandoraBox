@@ -14,3 +14,9 @@ assignees: mimorep
 **Purpose of the tool:**
 
 **Why we should included:**
+
+[THIS NEXT FIEDLS ARE MANDATORY]
+
+**URL to download the tool:**
+**Forensic/Reversing/other:**
+**Silent install command:**
